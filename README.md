@@ -14,7 +14,7 @@
 9. Birthday Card
 10. Almond Milk
 
-### You will be asked to enter the ID number for the product you would like to purchase and also the quantity.  This command line app will take your order, calculate the total and update the inventory.
+##### You will be asked to enter the ID number for the product you would like to purchase and also the quantity.  This command line app will take your order, calculate the total and update the inventory.
 
 ## GitHub Repo: https://github.com/lponder82/bamazon.git
 
